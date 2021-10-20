@@ -1,3 +1,3 @@
 # uk_firm
 
-Dynamical webscraping using both selenium and beautiful soup. 
+A sample dynamical webscraping using both selenium and beautiful soup. 
