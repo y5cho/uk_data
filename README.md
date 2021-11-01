@@ -1,3 +1,3 @@
 # uk_firm
 
-A sample dynamical webscraping using both selenium and beautiful soup. 
+This is a dynamical webscraping appllication that is used to map the bank-firm relationship in the UK by exploring their mortgage data. 
